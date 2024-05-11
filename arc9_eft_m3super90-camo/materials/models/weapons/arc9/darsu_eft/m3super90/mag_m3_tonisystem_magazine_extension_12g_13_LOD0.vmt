@@ -1,0 +1,20 @@
+//hrjngr was here
+
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapons/arc9/darsu_eft/m3super90/mag_m3_tonisystem_magazine_extension_12g_13_LOD0_diff"
+	"$bumpmap" "models/weapons/arc9/darsu_eft/m3super90/mag_m3_tonisystem_magazine_extension_12g_13_LOD0_nrm"
+	"$phongexponenttexture" "models/weapons/arc9/darsu_eft/m3super90/mag_m3_tonisystem_magazine_extension_12g_13_LOD0_gloss"
+	"$phong"		"1"
+	"$phongboost"	"13"
+	"$blendtintbybasealpha"	"1"
+	"$phongalbedotint"		"1"
+	"$phongfresnelranges"	"[0.7 0.8 2]"
+	"$rimlight"	"1"
+	"$rimlightexponent"		"35"
+	"$rimmask"	"1"
+	"$rimlightboost"	"3"
+	"$envmap"	"env_cubemap"
+	"$envmaptint"	"[ 0.1 0.1 0.1]"
+}
+
